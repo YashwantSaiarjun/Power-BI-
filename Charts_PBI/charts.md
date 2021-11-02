@@ -8,4 +8,6 @@
 # 3. Pie chart
 ![image](https://user-images.githubusercontent.com/86396701/139814972-7cd4c451-57e7-4444-a615-e75ff20f552d.png)
 
+# 4 .Donut chart
+![image](https://user-images.githubusercontent.com/86396701/139816113-dc34f16f-6426-4e26-882f-3a67f5fb13d7.png)
 
