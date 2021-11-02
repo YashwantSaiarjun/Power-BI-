@@ -13,3 +13,6 @@
 
 # 5. Funnel charts
 ![image](https://user-images.githubusercontent.com/86396701/139816912-3e63c6ab-7283-4de9-b7f2-caf0f991ce8a.png)
+
+# 6. Ribbon chart
+![image](https://user-images.githubusercontent.com/86396701/139817921-518f3d0c-173b-4cfa-95b2-4c2d241a54b5.png)
