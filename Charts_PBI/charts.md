@@ -11,3 +11,5 @@
 # 4 .Donut chart
 ![image](https://user-images.githubusercontent.com/86396701/139816113-dc34f16f-6426-4e26-882f-3a67f5fb13d7.png)
 
+# 5. Funnel charts
+![image](https://user-images.githubusercontent.com/86396701/139816912-3e63c6ab-7283-4de9-b7f2-caf0f991ce8a.png)
