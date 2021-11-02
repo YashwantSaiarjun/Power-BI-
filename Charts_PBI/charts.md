@@ -5,3 +5,7 @@
 # 2. Stacked Column chart
 ![image](https://user-images.githubusercontent.com/86396701/139698790-df056a47-3486-424d-9a28-e13647daf52b.png)
 
+# 3. Pie chart
+![image](https://user-images.githubusercontent.com/86396701/139814972-7cd4c451-57e7-4444-a615-e75ff20f552d.png)
+
+
